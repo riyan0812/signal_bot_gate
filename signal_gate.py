@@ -15,7 +15,7 @@ TAKE_PROFIT_PERCENT = 2.0
 STOP_LOSS_PERCENT = 1.0
 
 # Discord Config
-DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1371889491517636738/62JbhmJmpAX7Q7nMPjjC3H8tS0EB7X3jiVpnwOs2eUGR2ulNEmyTCmwGWl5glDrlfwiq'
+DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/xxxxxx'
 
 # Setup Exchange - Gate.io
 exchange = ccxt.gate({
